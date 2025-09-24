@@ -7,8 +7,8 @@
 
 
   &nbsp;
-<h1>  <a href="https://clearcache.space/00354a" target="_blank">
-    <img src="https://img.shields.io/badge/🎒-Play%20 on LESSONHUB.GURU-green?style=for-the-badge&logo=google-chrome" alt="Play ON SubjectNotes.website">
+<h1>  <a href="https://subjectnotes2.website" target="_blank">
+    <img src="https://img.shields.io/badge/🎒-Play%20 on SUBJECTNOTES2-green?style=for-the-badge&logo=google-chrome" alt="Play ON SubjectNotes.website">
   </a></h1>
 </p>
 
